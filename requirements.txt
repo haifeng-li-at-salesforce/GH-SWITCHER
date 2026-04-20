@@ -1,0 +1,2 @@
+giskard>=3.0.0
+giskard-checks
